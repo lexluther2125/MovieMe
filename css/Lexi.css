@@ -1,0 +1,41 @@
+.brand-logo {
+    color: #fed136;
+    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+
+.card {
+    overflow: visible !important;
+}
+
+.movie-info {
+    position: inline-block;
+}
+
+#footer {
+    background-color: white;
+    margin-top: 50px;
+}
+
+.movie-name {
+    font-family: 'Crimson Text', serif;
+}
+
+#plot {
+    font-size: 20px;
+}
+
+#director-info {
+    font-size: 20px;
+}
+
+#actor-info {
+    font-size: 20px;
+}
+
+#release-date {
+    font-size: 20px;
+}
+
+#runtime {
+    font-size: 20px;
+}
